@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="ur" dir="rtl">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>مکتب ہاشمی محمدی مسجد</title>
+
+<style>
+body{
+    margin:0;
+    font-family: "Noto Nastaliq Urdu", Arial;
+    background:#f5fff5;
+    color:#333;
+}
+header{
+    background:#075e2a;
+    color:white;
+    text-align:center;
+    padding:25px;
+}
+header h1{
+    font-size:35px;
+}
+nav{
+    background:#d4af37;
+    padding:12px;
+    text-align:center;
+}
+nav a{
+    color:#000;
+    text-decoration:none;
+    margin:10px;
+    font-weight:bold;
+}
+section{
+    padding:25px;
+    text-align:center;
+}
+.card{
+    background:white;
+    margin:15px;
+    padding:20px;
+    border-radius:15px;
+    box-shadow:0 0 10px #ccc;
+}
+button{
+    background:#075e2a;
+    color:white;
+    padding:12px 25px;
+    border:none;
+    border-radius:10px;
+}
+footer{
+    background:#075e2a;
+    color:white;
+    text-align:center;
+    padding:15px;
+}
+</style>
+
+</head>
+
+<body>
+
+<header>
+<h1>🕌 مکتب ہاشمی محمدی مسجد</h1>
+<p>قرآن کریم، نورانی قاعدہ، تجوید اور اسلامی تعلیمات</p>
+</header>
+
+<nav>
+<a href="#">ہوم</a>
+<a href="#">قرآن</a>
+<a href="#">تجوید</a>
+<a href="#">دعائیں</a>
+<a href="#">داخلہ</a>
+</nav>
+
+<section>
+<div class="card">
+<h2>📖 قرآن کریم</h2>
+<p>بچوں اور بڑوں کے لیے قرآن کریم ناظرہ اور حفظ کی تعلیم۔</p>
+</div>
+
+<div class="card">
+<h2>📚 نورانی قاعدہ و تجوید</h2>
+<p>صحیح مخارج اور تجوید کے ساتھ قرآن پڑھنے کی تعلیم۔</p>
+</div>
+
+<div class="card">
+<h2>🤲 دعائیں اور اذکار</h2>
+<p>مسنون دعائیں اور روزمرہ کے اسلامی اذکار۔</p>
+</div>
+
+<div class="card">
+<h2>📝 آن لائن داخلہ فارم</h2>
+<p>مکتب میں داخلے کے لیے رابطہ کریں۔</p>
+<button>داخلہ فارم</button>
+</div>
+
+</section>
+
+<footer>
+<p>محمدی مسجد، جمشیدپور</p>
+<p>رابطہ نمبر: 9508358128</p>
+</footer>
+
+</body>
+</html>
